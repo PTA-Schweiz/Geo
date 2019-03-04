@@ -9,6 +9,7 @@
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/PTA-Schweiz/Geo</PackageProjectUrl>
     <Authors>Andreas Haupt</Authors>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
