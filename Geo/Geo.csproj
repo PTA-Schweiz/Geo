@@ -6,21 +6,15 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>PTA-Schweiz GmbH</Company>
     <PackageId>Geo.Netstandard</PackageId>
-    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageLicenseFile></PackageLicenseFile>
     <PackageProjectUrl>https://github.com/PTA-Schweiz/Geo</PackageProjectUrl>
     <Authors>Andreas Haupt</Authors>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
+    <PackageLicenseExpression>LGPL-3.0-only</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="Properties\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="..\LICENSE.txt">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
   </ItemGroup>
 
 </Project>
